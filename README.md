@@ -7,7 +7,8 @@ License
 
 
 ## Installation
-Deploy the website and navigate through the website.
+Deploy the website and navigate through the website using this link:
+https://gladi023.github.io/Week-2-Homework/
 
 ## Usage
 After deploying the website the user can click on the top sections: "   About Me", "Work", and "Contact". As shown below:
